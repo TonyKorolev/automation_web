@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+wait: 3
+login: qwert22
+password: 88b64c7d65
