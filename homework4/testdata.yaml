@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+sleep_time: 3
+browser: firefox
+username: Steve_Rogers
+password: 84562109d5
+expassword: pass
+bad_username: test
+contact_us:
+  name: Anton Korolev
+  email: antoshka.992@mail.ru
+  content: Test information
+api:
+  posts: https://test-stand.gb.ru/api/posts
+getaway:
+  posts: https://test-stand.gb.ru/gateway/posts
+  login: https://test-stand.gb.ru/gateway/login
+create_post:
+  title: IronMan
+  description: IronMan is superhero from Marvel Comics
+  content: He is a genius, billionaire, former playboy, and philanthropist who not only invented the Iron Man Armor but wore the suit himself. He is also the co-leader and one of the founding members of the Avengers, and the CEO of Stark Industries
